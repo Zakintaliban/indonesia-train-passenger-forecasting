@@ -1,0 +1,10 @@
+tipe_kendaraan,n_obs,last_month_actual,slope_per_bulan,intercept,r2,arah_prediksi_vs_bulan_terakhir,pred_next_1,pred_next_1_label,pred_next_2,pred_next_2_label,pred_next_3,pred_next_3_label,pred_next_4,pred_next_4_label,pred_next_5,pred_next_5_label,pred_next_6,pred_next_6_label
+Total,19,50105.0,400.68,38970.4,0.55,turun,46984.02,2025-Agu,47384.7,2025-Sep,47785.38,2025-Okt,48186.06,2025-Nov,48586.74,2025-Des,48987.42,2026-Jan
+Jabodetabek,19,31401.0,170.2,25959.77,0.38,turun,29363.7,2025-Agu,29533.9,2025-Sep,29704.09,2025-Okt,29874.29,2025-Nov,30044.49,2025-Des,30214.68,2026-Jan
+Jawa (Jabodetabek+Non Jabodetabek),19,40484.0,260.3,32789.96,0.47,turun,37996.04,2025-Agu,38256.34,2025-Sep,38516.64,2025-Okt,38776.95,2025-Nov,39037.25,2025-Des,39297.55,2026-Jan
+Kereta Bandara,19,822.0,10.39,596.67,0.65,turun,804.49,2025-Agu,814.88,2025-Sep,825.27,2025-Okt,835.66,2025-Nov,846.06,2025-Des,856.45,2026-Jan
+Kereta cepat (Whoosh),19,580.0,5.34,450.18,0.15,turun,556.98,2025-Agu,562.32,2025-Sep,567.66,2025-Okt,573.0,2025-Nov,578.34,2025-Des,583.68,2026-Jan
+LRT,19,3219.0,68.15,1722.84,0.81,turun,3085.79,2025-Agu,3153.94,2025-Sep,3222.08,2025-Okt,3290.23,2025-Nov,3358.38,2025-Des,3426.53,2026-Jan
+MRT,19,4354.0,47.93,2940.35,0.4,turun,3898.91,2025-Agu,3946.84,2025-Sep,3994.77,2025-Okt,4042.7,2025-Nov,4090.62,2025-Des,4138.55,2026-Jan
+Non Jabodetabek (Jawa),19,9083.0,90.1,6830.3,0.31,turun,8632.23,2025-Agu,8722.32,2025-Sep,8812.42,2025-Okt,8902.52,2025-Nov,8992.61,2025-Des,9082.71,2026-Jan
+Non Jawa (Sumatera + Sulawesi),19,646.0,8.56,470.3,0.48,tetap,641.6,2025-Agu,650.16,2025-Sep,658.73,2025-Okt,667.29,2025-Nov,675.86,2025-Des,684.42,2026-Jan
